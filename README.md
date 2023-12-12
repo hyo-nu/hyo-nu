@@ -17,7 +17,7 @@
     </div>
   </div>
 
-
+  ![3d-asset](./profile-3d-contrib/profile-south-season-animate.svg)
 
   <div key="4">
   <h3 style ="font-size : 2em; font-weight:700;">🍀Tech Stack🍀</h3>
