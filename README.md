@@ -17,7 +17,6 @@
     </div>
   </div>
 
-  ![3d-asset](./profile-3d-contrib/profile-south-season-animate.svg)
 
   <div key="4">
   <h3 style ="font-size : 2em; font-weight:700;">🍀Tech Stack🍀</h3>
@@ -70,18 +69,31 @@
   </div>
 </div>
 
-   ### 💻 Project
+<br />
 
-  |      Period       |       Category        | Project                                                        | Description                                       |
-  | :---------------: | :-------------------: | :------------------------------------------------------------: | --------------------------------------------------|
-  | 2023.10 - 2023.11 |          Webapp       | [구급대장](https://github.com/hyo-nu/gu-geup-dae-jang)         | 실시간 구급 이송 지원 서비스                       |
-  | 2023.08 - 2023.10 |          Webapp       | [Billage](https://github.com/B-108/Billage)                    | 가까운 지인과의 안전한 거래를 위한 어플리케이션    |
-  | 2023.07 - 2023.08 |          Web          | [VOSS](https://github.com/hyo-nu/VOSS)                         | WebRTC를 활용한 성우 지망생 연습 플랫폼            |
-  | 2023.05 - 2023.05 |          Web          | [CHOICE](https://github.com/hyo-nu/CHOICE)                     | TMDB 영화 API를 활용한 영화 추천 커뮤니티          |
+### 💻 Project
 
-  <div key="1">
-    <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=gusehd502 width="280" height="140" alt="baekjoon" />
-    <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=gusehd3279 width="280" height="140" alt="baekjoon" />
-  </div>
+|      Period       |       Category        | Project                                                        | Description                                       |
+| :---------------: | :-------------------: | :------------------------------------------------------------: | --------------------------------------------------|
+| 2023.10 - 2023.11 |          Webapp       | [구급대장](https://github.com/hyo-nu/gu-geup-dae-jang)          | 실시간 구급 이송 지원 서비스                        |
+| 2023.08 - 2023.10 |          Webapp       | [Billage](https://github.com/B-108/Billage)                    | 가까운 지인과의 안전한 거래를 위한 어플리케이션       |
+| 2023.07 - 2023.08 |          Web          | [VOSS](https://github.com/hyo-nu/VOSS)                         | WebRTC를 활용한 성우 지망생 연습 플랫폼              |
+| 2023.05 - 2023.05 |          Web          | [CHOICE](https://github.com/hyo-nu/CHOICE)                     | TMDB 영화 API를 활용한 영화 추천 커뮤니티            |
+
+<br />
+
+### ✍️ Problem Solving 
+
+<div>
+  <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=gusehd502 alt="baekjoon" />
+  <img src="http://mazandi.herokuapp.com/api?handle=gusehd502&theme=warm"/>
+</div>
+
+<br />
+
+### 📈 GitHub Analytics
+
+![3d-asset](./profile-3d-contrib/profile-south-season-animate.svg)
+
   
 
