@@ -3,7 +3,7 @@
   <div>
     I started learning software for the first time on January 2, 2023. </br>
     Since I started later than others, I will try to grow more and harder. </br>
-    Please watch carefully in the future. Thank you! 
+    Please watch carefully in the future. Thank you!👍 
   </div>
 </div>
 
