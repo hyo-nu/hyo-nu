@@ -85,7 +85,7 @@
 ### ✍️ Problem Solving 
 
 <div>
-  <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=gusehd502 alt="baekjoon" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gusehd502">
   <img src="http://mazandi.herokuapp.com/api?handle=gusehd502&theme=warm"/>
 </div>
 
