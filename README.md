@@ -1,9 +1,17 @@
 <div align="center">
   <h1>Hi there! 👋 I'm Hyunwoo Jeong, Frontend Developer.</h1>
+  I started learning software for the first time on January 2, 2023. </br>
+  Since I started later than others, I will try to grow more and harder. </br>
+  Please watch carefully in the future. Thank you!👍 
+
+  <h3> Contact me</h3>
   <div>
-    I started learning software for the first time on January 2, 2023. </br>
-    Since I started later than others, I will try to grow more and harder. </br>
-    Please watch carefully in the future. Thank you!👍 
+    <a href="mailto:gusehd502@naver.com">
+      <img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white&link=gusehd502@naver.com"/>
+    </a>
+    <a href="https://hyonu.tistory.com/">
+      <img src="https://img.shields.io/badge/Tech Blog-F6F5F5?style=flat-square&logo=Tistory&logoColor=black">
+    </a>
   </div>
 </div>
 
