@@ -1,72 +1,34 @@
 ### Hi there 👋
 
-<div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
-  <div key="5">
-    <h3 style ="font-size : 2em; font-weight:700;">💙Contact💙</h3>
-    <div className=Preview_contactBadgeDiv__3demU>
-      <a href=mailto:gusehd3279@gmail.com target="_blank">
-            <img
-              src="https://img.shields.io/badge/Mail-6667AB?style=flat&logo=Gmail&logoColor=white"
-              alt="Mail"
-            />
-          </a>
-      <a href=https://velog.io/@gusehd502 target="_blank">
-            <img src=https://img.shields.io/badge/TechBlog-7FD2F5?style=flat&logo=Hoppscotch&logoColor=white&link=https://velog.io/@gusehd502/ alt="blog" />
-          </a>
-      <span></span>
-    </div>
-  </div>
+### 👩🏻‍🎓 Educations & Careers
 
+- 2023.01 - 2023.12 삼성 청년 SW 아카데미 (SSAFY) 9th
+- 2016.03 - 2022.08 서울과학기술대학교 전자IT미디어공학과 (졸업)
 
-  <div key="4">
-  <h3 style ="font-size : 2em; font-weight:700;">🍀Tech Stack🍀</h3>
-    <div ><h3 key=0 style ="font-size : 1.5em; font-weight:700;"></h3><div "><img
-          key=185113.92037514894
-          style = "margin: 5px 5px;"
-          src=https://img.shields.io/badge/python-3581ba?style=flat&logo=python&logoColor=white
-          alt=""
-        /> <img
-          key=686617.6197108779
-          style = "margin: 5px 5px;"
-          src=https://img.shields.io/badge/css-563d7c?style=flat&logo=css&logoColor=white
-          alt=""
-        /> <img
-          key=342642.66083604447
-          style = "margin: 5px 5px;"
-          src=https://img.shields.io/badge/html5-e44b23?style=flat&logo=html5&logoColor=white
-          alt=""
-        /> <img
-          key=203397.52341864788
-          style = "margin: 5px 5px;"
-          src=https://img.shields.io/badge/javascript-f1e05a?style=flat&logo=javascript&logoColor=white
-          alt=""
-        /><br> <img
-          key=216390.19440384523
-          style = "margin: 5px 5px;"
-          src=https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white
-          alt=""
-        /> <img
-          key=177077.01858891113
-          style = "margin: 5px 5px;"
-          src=https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white
-          alt=""
-        /> <img
-          key=34098.957346794654
-          style = "margin: 5px 5px;"
-          src=https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white
-          alt=""
-        /> <img
-          key=26719.679051897325
-          style = "margin: 5px 5px;"
-          src=https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white
-          alt=""
-        /> <img
-          key=16250.83730083743
-          style = "margin: 5px 5px;"
-          src=https://img.shields.io/badge/java-b07219?style=flat&logo=java&logoColor=white
-          alt=""
-        /></div><h3 key=1 style ="font-size : 1.5em; font-weight:700;"></h3><div "></div></div>
-  </div>
+<br />
+
+### 🛠️ Tech Stack
+
+<div>  
+  <b>Frontend　</b>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white">
+  <img src="https://img.shields.io/badge/Styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+  <br/><br/>
+  
+  <b>Etc　</b>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">
+  <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&amp;logo=Mattermost&amp;logoColor=white" style="max-width: 100%;"></a>
 </div>
 
 <br />
