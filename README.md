@@ -6,8 +6,8 @@
 
   <h3> Contact me</h3>
   <div>
-    <a href="mailto:gusehd502@naver.com">
-      <img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white&link=gusehd502@naver.com"/>
+    <a href="mailto:gusehd3279@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&link=gusehd3279@gmail.com"/>
     </a>
     <a href="https://hyonu.tistory.com/">
       <img src="https://img.shields.io/badge/Tech Blog-F6F5F5?style=flat-square&logo=Tistory&logoColor=black">
