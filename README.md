@@ -66,6 +66,10 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gusehd502">
   <img src="http://mazandi.herokuapp.com/api?handle=gusehd502&theme=warm"/>
 </div>
+<div>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gusehd3279">
+  <img src="http://mazandi.herokuapp.com/api?handle=gusehd3279&theme=warm"/>
+</div>
 
 <br />
 
