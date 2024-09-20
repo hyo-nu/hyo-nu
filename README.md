@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there! 👋 I'm Hyunwoo Jeong, Frontend Developer.</h1>
+  <h1>Hi there! 👋 I'm Hyeonwoo Jung, Frontend Developer.</h1>
   I started learning software for the first time on January 2, 2023. </br>
   Since I started later than others, I will try to grow more and harder. </br>
   Please watch carefully in the future. Thank you!👍 
